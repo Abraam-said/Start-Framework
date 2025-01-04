@@ -1,0 +1,19 @@
+.portfolio {
+    height: auto;
+    background-color: white;
+    padding-top: 50px;
+}
+
+.line {
+    background-color: rgb(44, 62, 80);
+    height: 4px;
+    width: 80px;
+}
+
+img {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 3px;
+}

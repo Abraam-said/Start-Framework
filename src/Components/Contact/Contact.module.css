@@ -1,0 +1,33 @@
+.contact {
+    height: auto;
+    background-color: white;
+    padding-top: 50px;
+}
+
+.line {
+    background-color: rgb(44, 62, 80);
+    height: 4px;
+    width: 80px;
+}
+
+.top {
+    top: 40px !important;
+}
+
+label {
+    color: #1abc9c;
+    margin-bottom: 7px;
+    transition: .6s top;
+
+}
+
+.position-relative {
+    position: relative !important;
+}
+
+.btn {
+    background-color: #1abc9c;
+    border-radius: 10px;
+    border-style: none;
+    padding: 10px;
+}
